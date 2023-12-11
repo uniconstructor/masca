@@ -1,5 +1,17 @@
 # @blockchain-lab-um/dapp
 
+## 1.2.0-beta.1
+
+### Minor Changes
+
+- [#522](https://github.com/blockchain-lab-um/masca/pull/522) [`309758c`](https://github.com/blockchain-lab-um/masca/commit/309758c4ff7f8d7d3602e37431ffa2ae2aac4c7c) Thanks [@andyv09](https://github.com/andyv09)! - Update list of partners and projects
+
+### Patch Changes
+
+- [#528](https://github.com/blockchain-lab-um/masca/pull/528) [`5d6ae05`](https://github.com/blockchain-lab-um/masca/commit/5d6ae0557a08f0bad94f238a2ce20a15fd9dd4ba) Thanks [@martines3000](https://github.com/martines3000)! - Fixes crash when address is not a string.
+
+- [#531](https://github.com/blockchain-lab-um/masca/pull/531) [`8f44f29`](https://github.com/blockchain-lab-um/masca/commit/8f44f2925f333d9920407992a1efd20b7ec24f57) Thanks [@andyv09](https://github.com/andyv09)! - Fixed the bug where only credentials stored in Masca show at first
+
 ## 1.2.0-beta.0
 
 ### Minor Changes
